@@ -1,0 +1,2 @@
+Plaintext: H E L L O
+Ciphertext: K H O O R
